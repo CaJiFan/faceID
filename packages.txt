@@ -3,4 +3,5 @@ libgtk2.0-dev
 libgl1-mesa-glx
 tesseract-ocr
 libtesseract-dev
-libte
+libtesseract4
+tesseract-ocr-all
