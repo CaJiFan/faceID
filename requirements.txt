@@ -1,6 +1,6 @@
-Keras
-Keras-Applications
-Keras-Preprocessing
+keras
+keras-Applications
+keras-Preprocessing
 keras-vggface
 matplotlib
 numpy
